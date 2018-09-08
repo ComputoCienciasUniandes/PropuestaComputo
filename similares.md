@@ -134,4 +134,13 @@ Physicists use many different computing packages, and our philosophy is to expos
 
 The Physics Teaching Labs are well-equipped with Windows and Mac computers, which can be remotely accessed. We also have site licenses for specialised software packages, many of which are available for download by students.
 
+### Carnegie Mellon
+
+* https://www.cmu.edu/physics/undergrad-program/courses.html
+* 2 cursos computacionales. Basico (pero ya con fisica) e intermedio. Hay una curso avanzado electivo. 
+
+# Generalidades en US
+
+https://scicomp.stackexchange.com/questions/2279/universities-known-for-computational-physics
+
 
