@@ -18,3 +18,20 @@ Cercanas en el ranking:
 - 216. University of Pittsburgh
 - 215. Simon Fraser University
 - 214. University of Bergen
+
+Cerca del top 100
+
+Texas A&M University--College Station
+University of California--Davis
+University of Strasbourg
+Indiana University--Bloomington
+Michigan State University
+
+Top 5
+
+MIT
+Berkeley
+Harvard
+Stanford
+Caltech.
+
