@@ -13,25 +13,26 @@ https://www.usnews.com/education/best-global-universities/physics?page=22
 
 Uniandes es #219.
 Cercanas en el ranking:
-- 218. University of Oklahoma
-- 217. University of Sheffield
-- 216. University of Pittsburgh
-- 215. Simon Fraser University
-- 214. University of Bergen
+
+* 214 University of Bergen
+* 215 Simon Fraser University
+* 216 University of Pittsburgh
+* 217 University of Sheffield
+* 218 University of Oklahoma
 
 Cerca del top 100
 
-Texas A&M University--College Station
-University of California--Davis
-University of Strasbourg
-Indiana University--Bloomington
-Michigan State University
+* Texas A&M University--College Station
+* University of California--Davis
+* University of Strasbourg
+* Indiana University--Bloomington
+* Michigan State University
 
 Top 5
 
-MIT
-Berkeley
-Harvard
-Stanford
-Caltech.
+* MIT
+* Berkeley
+* Harvard
+* Stanford
+* Caltech.
 
