@@ -88,5 +88,33 @@ Las mejores de los paises altos del nature index
 - Programming in the profession I. Primer semestre. 4 ECTS. Programacion Basica en C. https://www.pmfst.unist.hr/wp-content/uploads/predmeti/PMP073.pdf 
 - Programming in the profession II. Segundo semestre. 5 ECTS. Algoritmos Basicos. https://www.pmfst.unist.hr/wp-content/uploads/predmeti/PMP074.pdf
 
+## University of Helsinki
+
+- https://weboodi.helsinki.fi/hy/vl_kehys.jsp?MD5avain=&Kieli=6&Opas=6169&Org=116715050&vl_tila=1&AukAikMaar=1 
+- 5 creditos. nivel 1. https://courses.helsinki.fi/en/FYS1013/124521563
+LEARNING OUTCOMES
+Linux operating system basic commands
+Using Emacs Editor
+Python or Octave programming languages
+Use of a Latex scaling program, including the use of a complete database source
+The beginnings of the use of databases in search of scientific information
+Basics of Practical Document Drawing
+
+- 5 creditos. nivel 2. https://courses.helsinki.fi/en/FYS2085/124522610
+
+LEARNING OUTCOMES
+After the successful completion of the course
+you know the most important aspects of Fortran's scientific calculation
+you can write decent-sized programs in the Fortran language
+you know how to translate the program into the source language for performance
+practiced using the Linux programming environment
+
+# Munich University
+
+* 6 semestres https://www.physik.uni-muenchen.de/studium/studiengaenge/bsc_physik/index.html
+* Solamente 1 curso: https://www.physik.uni-muenchen.de/lehre/vorlesungen/sose_16/m4_numerik/uebungen/index.html
+
+
+
 
 
