@@ -109,12 +109,29 @@ you can write decent-sized programs in the Fortran language
 you know how to translate the program into the source language for performance
 practiced using the Linux programming environment
 
-# Munich University
+## Munich University
 
 * 6 semestres https://www.physik.uni-muenchen.de/studium/studiengaenge/bsc_physik/index.html
 * Solamente 1 curso: https://www.physik.uni-muenchen.de/lehre/vorlesungen/sose_16/m4_numerik/uebungen/index.html
 
 
+## Oxford
 
+* Pregrado de 3 años. Master en 4 años.
+* https://www2.physics.ox.ac.uk/study-here/undergraduates/the-courses/3-year-ba-physics
+* 2 cursos de cómputo en el primer año.
+* No hay programas, solo esto https://www2.physics.ox.ac.uk/study-here/undergraduates/faqs/faq-physics-courses
+* How much computing is there?
+Being able to write a computer program is an important skill for all physicists. In physics, computing is mainly required for the following types of task:
+
+1.	Analysis of experimental data
+2.	Solving numerical problems such as differential equations
+3.	Controlling scientific instruments and acquiring data from them
+
+We aim to teach you all these skills during your time in Oxford. In the first year we focus on the first two aspects through lectures and lab classes. The third aspect is generally learnt by doing experiments in the teaching labs, where you will experience some data acquisition software during first year practicals. You will spend more time writing your own code for data acquisition and control in the second and third year lab experiments.
+
+Physicists use many different computing packages, and our philosophy is to expose you to a range of different programming environments during your time in Oxford, so that, like professional physicists, you learn to choose which you prefer for different tasks. In the first year we teach you two programming languages, RStudio (which uses an underlying language called R) and Matlab. Your first lab classes will be introductory exercises in both languages. You will carry out about four days of Matlab programming in the first year and there are opportunities to do more programming later in the course.
+
+The Physics Teaching Labs are well-equipped with Windows and Mac computers, which can be remotely accessed. We also have site licenses for specialised software packages, many of which are available for download by students.
 
 
