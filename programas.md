@@ -4,9 +4,10 @@
 
 ## Pre-requisitos
 * APO I
-* Cálculo diferencial
 * Álgebra lineal
-* Cálculo integral
+
+## Características
+* 3 créditos, 16 semanas
 
 ## Programa por semanas
 
@@ -18,6 +19,12 @@
 ## Pre-requisitos
 * Ecuaciones diferenciales
 
+## Características
+* 2 créditos, 8 semanas
+
 ## Programa por semanas
 
 1. 
+
+
+# Métodos Computacionales III
